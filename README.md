@@ -9,5 +9,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=divyansh-4&theme=blue-green&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh-4&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&author=-)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&author=none)
 
